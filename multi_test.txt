@@ -1,0 +1,4 @@
+user1 pass1
+user2 h'dPUt#=b2:f#"wsFPJ%'txCa
+user3 <gen>
+user4 <prompt>
